@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/HARINIMANIKAN/test.git
+[submodule "sub"]
+	path = sub
+	url = C:\\Users\\harin\\file\\sub
